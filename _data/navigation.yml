@@ -1,0 +1,6 @@
+- name: Home
+  link: /
+- name: Policies & Rates
+  link: /policies_and_rates
+- name: Contact
+  link: /contact
