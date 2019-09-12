@@ -19,6 +19,11 @@ div.container {
     margin: 0 auto;
     padding: 0.5em 0;
     flex: 1 1 auto;
+
+    img
+    {
+        @include paper-img;
+    }
 }
 
 div.divider {
@@ -33,9 +38,9 @@ div.divider {
     margin: 0 auto;
 }
 
-.float-img-right {
+img.float-img-right {
     float:right;
-    padding: 1ex;
+    margin: 1ex;
     max-width: 40%;
 }
 

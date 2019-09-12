@@ -6,7 +6,8 @@ h1.title {
 
 div.header_block {
     text-align: center;
-    color: #aaa;
+    color: $lightGray;
+    background: $veryLightGray;
     padding: 0;
 }
 
@@ -20,6 +21,8 @@ img.header-logo {
 img.header-img {
     max-width: 100%;
     max-height: 400px;
+
+    @include paper-img;
 }
 
 nav {
@@ -30,43 +33,18 @@ nav {
     align-content: flex-start;
     align-items: flex-start;
     padding: 0.5ex 1ex;
-    background: white;
-
 
     a, a:visited {
-        position: relative;
         padding: 0 1.5ex;
         color: $mainFGColor;
         text-decoration: none;
 
-        transition: color 0.3s ease-in;
-
-        &::after {
-            display: block;
-            position: absolute;
-            top: 100%;
-            left: 50%;
-            margin-left: 0;
-            content: "";
-
-            transition: all 0.3s ease-in;
-            
-            padding: 1px;
-            height: 0px;
-            width: 0;
-            border-radius: 2px;
-
-            background: $mainBGColor;
-        }
-
-        &:hover, &.current {
-            color: $accentAqua;
-
-            &::after {
-                margin-left: calc(-50% + 2.5ex);
-                width: calc(100% - 5ex);
-                background: $accentAqua;
-            }
-        }
+        @include animated-hover-line($accentAqua, rgba(255, 255, 255, 0));
     }
+}
+
+div.sticky {
+    position: sticky;
+    top: 0;
+    background: $veryLightGray;
 }

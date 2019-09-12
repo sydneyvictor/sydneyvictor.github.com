@@ -9,13 +9,17 @@ div.call_to_action {
 
 div.call_to_action a {
     color: white;
-}
+    text-decoration: none;
 
-div.call_to_action a:hover {
-    color: #5ecae5;
+    &:not(.big_button) {
+        @include animated-hover-line($accentCyan, $medGray);
+    }
 }
 
 div.call_to_action a.big_button {
+    position: relative;
+    z-index: 1;
+
     display: inline-block;
     color: white;
     background: #3cbfc5;
@@ -29,14 +33,36 @@ div.call_to_action a.big_button {
     margin: 0.25em;
     text-decoration: none;
     border-radius: 1em;
-}
 
-div.call_to_action a.big_button:hover {
-    color: white;
-    background: #5ecae5;
-    background: -moz-linear-gradient(top, #5ecae5 0%, #2f8399 100%);
-    background: -webkit-linear-gradient(top, #5ecae5 0%,#2f8399 100%);
-    background: linear-gradient(to bottom, #5ecae5 0%,#2f8399 100%);
+    &::before {
+        content: "";
+
+        position: absolute;
+        left: 0;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        z-index: -1;
+        opacity: 0;
+
+        font-size: 1.2em;
+        border-radius: 1em;
+
+        transition: opacity 0.2s ease-out;
+
+        background: #5ecae5;
+        background: -moz-linear-gradient(top, #5ecae5 0%, #2f8399 100%);
+        background: -webkit-linear-gradient(top, #5ecae5 0%,#2f8399 100%);
+        background: linear-gradient(to bottom, #5ecae5 0%,#2f8399 100%);
+    }
+
+    &:hover {
+        color: white;
+
+        &::before {
+            opacity: 1;
+        }
+    }
 }
 
 div.copyright {
