@@ -1,0 +1,49 @@
+body {
+    font-family: "Raleway", sans-serif;
+    background: $mainBGColor;
+    color: $mainFGColor;
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+    font-size: 14pt;
+    margin: 0;
+}
+
+h1, h2, h3 {
+    font-family: "Quicksand", sans-serif;
+    color: $accentAqua;
+}
+
+div.container {
+    width: 760px;
+    margin: 0 auto;
+    padding: 0.5em 0;
+    flex: 1 1 auto;
+}
+
+div.divider {
+    background-color: none;
+    background-image: url('/assets/img/music note divider.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 2.7rem;
+    max-width: 100ex;
+    width: 66vw;
+    margin: 0 auto;
+}
+
+.float-img-right {
+    float:right;
+    padding: 1ex;
+    max-width: 40%;
+}
+
+table {
+    margin: 0 auto;
+
+    th, td {
+        padding: 0 1ex;
+        text-align: center;
+    }
+}
