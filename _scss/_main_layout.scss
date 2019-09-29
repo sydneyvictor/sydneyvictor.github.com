@@ -20,9 +20,26 @@ div.container {
     padding: 0.5em 0;
     flex: 1 1 auto;
 
-    img
-    {
+    &.centered {
+        text-align: center;
+    }
+
+    img {
         @include paper-img;
+    }
+
+    a {
+        text-decoration: none;
+        color: $accentAqua;
+        transition: color 0.3s ease-out;
+
+        &:hover, &:visited:hover {
+            color: darken($accentAqua, 33%);
+        }
+
+        &:visited {
+            color: $accentAqua;
+        }
     }
 }
 
