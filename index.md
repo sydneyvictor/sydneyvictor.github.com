@@ -16,8 +16,8 @@ With more than 4 years of experience as a professional music teacher, Sydney Vic
  * Experienced with students of all ages
  * Lessons targeting your individual goals
  * Focus on safe training techniques that will help you find your potential without damaging your voice.
- * [Certification Pending] McClosky Institute of Voice Certification
- * ARCT in piano
+ * [Certification Pending] Certified McClosky Voice Technician
+ * ARCT in Piano Performance
 
 ## Learn More About Sydney
 
