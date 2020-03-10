@@ -27,13 +27,41 @@ By submitting payment, you reserve a spot in my studio for the year and agree to
  * Please make all checks payable to Sydney Victor. The payee will be responsible for any NSF cheque fees incurred.
 
 
-### Lesson Tuition
+### Tuition and Fees
 
 The teacher reserves the right to raise tuition at the beginning of each year.
 
-#### Studio Lesson Tuition
+#### Studio and Online
 
-Students who wish to take regular lessons for one full year can take advantage of the discounted monthly lesson rates. Students who wish to take lessons for less than one full year will not be eligible for any discount; they will be charged the full cost per lesson.  The studio year runs from September through June.
+The following rates are applicable for students who wish to take lessons for less than one year or would like to space lessons further apart than one week (i.e. bi-weekly or once a month).
+
+
+<table>
+    <thead>
+        <tr>
+            <th>Lesson Length</th>
+            <th>Individual Lesson Rate</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>30 minutes</td>
+            <td>$25.00</td>
+        </tr>
+        <tr>
+            <td>45 minutes</td>
+            <td>$37.50</td>
+        </tr>
+        <tr>
+            <td>60 minutes</td>
+            <td>$50.00</td>
+        </tr>
+    </tbody>
+</table>
+
+#### Discounted Lesson Tuition
+
+Students who wish to take regular lessons on a weekly basis for one full year can take advantage of the discounted monthly lesson rates.  Students who wish to take lessons for less than one full year will not be eligible for any discount; they will be charged the full cost per lesson.  The studio year runs from September through June
 
 <table>
     <thead>
@@ -62,68 +90,10 @@ Students who wish to take regular lessons for one full year can take advantage o
     </tbody>
 </table>
 
-#### Online Lesson Tuition
-
-Studio lessons are recommended when possible, however, I also provide online lessons for students who are unable to meet at the studio. A reliable Internet connection capable of video chat is required. The studio year runs from September through June.
-
-<table>
-    <thead>
-        <tr>
-            <th>Lesson Length</th>
-            <th>Cost Per Lesson</th>
-            <th>Monthly Online Lesson Rate</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>30 minutes</td>
-            <td>$22.50</td>
-            <td>$90.00</td>
-        </tr>
-        <tr>
-            <td>45 minutes</td>
-            <td>$30.00</td>
-            <td>$120.00</td>
-        </tr>
-        <tr>
-            <td>60 minutes</td>
-            <td>$40.00</td>
-            <td>$160.00</td>
-        </tr>
-    </tbody>
-</table>
-
-#### Single Lesson Rates
-
-The following rates are applicable for one-time lessons:
-
-<table>
-    <thead>
-        <tr>
-            <th>Lesson Length</th>
-            <th>Individual Lesson Rate</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>30 minutes</td>
-            <td>$25.00</td>
-        </tr>
-        <tr>
-            <td>45 minutes</td>
-            <td>$37.50</td>
-        </tr>
-        <tr>
-            <td>60 minutes</td>
-            <td>$50.00</td>
-        </tr>
-    </tbody>
-</table>
-
-#### Other Costs
+#### Other Fees
 
  * Book purchases for lessons will be discussed as needed and arranged individually.
- * All festival and exam fees will be invoiced separately from regular lesson fees.
+ * All festival and exam fees will be invoiced separately from regular lesson tuition.
 
 
 ### Lesson Expectations
