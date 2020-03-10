@@ -22,8 +22,8 @@ By submitting payment, you reserve a spot in my studio for the year and agree to
 
 ### Payment
 
- * Lesson Fees for each month must be paid in advance (by the first of the month): You may pay by cheque, cash, or e-transfer.  If you need to make alternate payment arrangements, please discuss that with me before payment is due.
- * A $20 late fee will apply to all lesson and other fees.
+ * Lesson Tuition for each month must be paid in advance (by the first of the month): You may pay by cheque, cash, or e-transfer.  If you need to make alternate payment arrangements, please discuss that with me before payment is due.
+ * A $20 late fee will apply to all lesson tuition and other fees.
  * Please make all checks payable to Sydney Victor. The payee will be responsible for any NSF cheque fees incurred.
 
 
