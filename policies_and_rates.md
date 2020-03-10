@@ -31,9 +31,9 @@ By submitting payment, you reserve a spot in my studio for the year and agree to
 
 The teacher reserves the right to raise tuition at the beginning of each year.
 
-#### Studio and Online
+#### Studio & Online Lesson Tuition
 
-The following rates are applicable for students who wish to take lessons for less than one year or would like to space lessons further apart than one week (i.e. bi-weekly or once a month).
+The following rates are applicable for students who wish to take lessons for less than one year or would like to space lessons further apart than one week (i.e. bi-weekly or once a month). Studio lessons are recommended when possible, however, I also provide online lessons for students who are unable to meet at the studio. A reliable Internet connection capable of video chat is required.
 
 
 <table>
