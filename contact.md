@@ -4,6 +4,9 @@ title: Contact Sydney
 permalink: /contact
 layout: default_centered
 ---
+## Book A Free Consultation with Sydney
+
+Follow the link to book your private consultation: https://calendly.com/speaksingstudio/15-minute-call-music-lesson-consult
 
 ## Studio Contact Information
 **Email:** [{{site.email}}](mailto:{{site.email}}){:target="_blank"}  
