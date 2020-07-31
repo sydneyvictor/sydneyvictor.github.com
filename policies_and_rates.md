@@ -11,7 +11,7 @@ Learning Music is fun at Speak Sing Studio!  Your musical year consists of 40 le
 ### Fees
 
 Voice & Piano lessons are based on $50.00 per hour.
-Theory Club Classes are $160 per month for a 60-minute group theory class.
+Theory Club Classes are $160 per month for a weekly, 60-minute group theory class.
 
 ### Registration
 
