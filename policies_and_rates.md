@@ -39,4 +39,3 @@ Successful completion of examinations with RCM may result in students receiving 
 
 Daily practice is the only way to become proficient as a musician and have more fun learning.  My recommendation for your practice time is 20-90 minutes daily, depending on your level and instrument of study.
 
-Speak Sing Studio - *"Enriching Lives Through Music Education"
