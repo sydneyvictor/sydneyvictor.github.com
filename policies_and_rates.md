@@ -22,6 +22,7 @@ For confirmation of lesson and class times, payment is required on the 1st of ea
 Late or absent lessons are your responsibility; no refunds will be made for these.  However, please feel free to trade lesson times with another student.  I will supply times and phone numbers on request.  Should the student be unable to attend their lesson due to illness, a make-up lesson will be offered if an opening becomes available.
 
 ### Recitals
+
 There will be a Christmas Recital in December and a year-end recital in June.  Performance in recitals is an essential part of music study.  Parents and friends are welcome and encouraged to attend.  This year we will likely have an online recital.
 
 ### Festivals & Exams
