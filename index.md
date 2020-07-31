@@ -6,6 +6,7 @@ layout: default
 ---
 
 ## Professional Music Lessons in Langford, British Columbia
+*For the 2020/2021 studio year, all regular lessons & group theory classes will be taught online.
 
 ### Speak
 
@@ -19,6 +20,10 @@ Lyric Soprano, Sydney Johnson, holds a Bachelor of Music Degree in Voice Perform
 
 Sydney studied piano from a young age and recently completed the ARCT program in Piano Performance through the Royal Conservatory of Music.  She loves exploring basic composing and arranging with her students and enjoys teaching all ages from beginner to intermediate.
 
+### Theory
+
+Sydney teaches group theory classes using the Ultimate Music Theory resources.  UMT Club Classes are fun & use accelerated learning techniques to help you master music theory quickly!  Designed for ages 6 through adult, these classes engage all 3 learning modalities: visual, auditory & kinesthetic.  
+
 ![](/assets/img/students.jpeg){: .float-img-right}
 
 ## Why Take Lessons with Speak Sing Studio?
@@ -27,10 +32,11 @@ Sydney studied piano from a young age and recently completed the ARCT program in
  * Experienced with students of all ages
  * Lessons targeting your individual goals
  * Focus on safe training techniques that will help you find your potential without damaging your voice.
- * Member of the B.C. Registered Music Teacher's Association
- * [Certification Pending] Certified McClosky Voice Technician
  * ARCT in Piano Performance
  * BMUS in Voice Performance
+ * Certified McClosky Voice Technician [Certification Pending]
+ * Member of the B.C. Registered Music Teacher's Association
+ * UMT Certified Elite Educator
 
 ## Learn More About Sydney
 
