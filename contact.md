@@ -6,7 +6,7 @@ layout: default_centered
 ---
 ## Book A Free Consultation with Sydney
 
-Follow the link below to book your private consultation:
+Follow the link to book your private consultation:
 [Sydney's Availability](https://calendly.com/speaksingstudio/15-minute-call-music-lesson-consult){:target="_blank"} 
 
 ## Studio Contact Information
