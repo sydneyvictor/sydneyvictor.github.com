@@ -6,7 +6,7 @@ layout: default
 ---
 
 ## Professional Music Lessons in Langford, British Columbia
-*For the 2020/2021 studio year, all regular lessons & group theory classes will be taught online.
+*For the 2020/2021 studio year, all regular lessons & group theory classes will be taught online.*
 
 ### Speak
 
