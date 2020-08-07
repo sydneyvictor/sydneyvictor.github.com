@@ -6,7 +6,7 @@ layout: default
 ---
 
 
-Learning Music is fun at Speak Sing Studio!  Your musical year consists of 40 lessons commencing the first week of September until the end of June.  The following policies apply for the 2020/2021 studio year.
+Learning Music is fun at Speak Sing Studio!  Your musical year consists of 38 lessons commencing the first week of September until June 18th.  The following policies apply for the 2020/2021 studio year.
 
 ### Fees
 
