@@ -8,14 +8,9 @@ layout: default
 
 Learning Music is fun at Speak Sing Studio!  Your musical year consists of 38 lessons commencing the first week of September until June 18th.  The following policies apply for the 2020/2021 studio year.
 
-### Fees
-
-Voice & Piano lessons are based on $50.00 per hour.
-Theory Club Classes are $160 per month for a weekly, 60-minute group theory class.
-
 ### Registration
 
-For confirmation of lesson and class times, payment is required on the 1st of each month, commencing September 1st to June 1st.
+For confirmation of lesson and class times, payment is required at the time of registration.  Following registration, payment is due on the 1st of each month.
 
 ### Missed Lessons
 
