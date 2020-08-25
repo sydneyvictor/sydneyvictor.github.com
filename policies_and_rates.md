@@ -1,7 +1,7 @@
 ---
-metaTitle:  Speak Sing Studio • Policies and Rates
-title: Policies and Rates
-permalink: /policies_and_rates
+metaTitle:  Speak Sing Studio • Policies
+title: Policies
+permalink: /policies
 layout: default
 ---
 
