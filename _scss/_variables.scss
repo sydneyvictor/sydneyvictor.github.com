@@ -6,8 +6,10 @@ $medGray: #777;
 $lightGray: #afafaf;
 $veryLightGray: #fafafa;
 
+$roundedRadius: 12px;
+
 @mixin paper-img {
-    border-radius: 5px;
+    border-radius: $roundedRadius;
     box-shadow: 2px 2px 3px $lightGray;
 }
 
