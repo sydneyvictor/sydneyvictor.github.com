@@ -30,12 +30,12 @@ nav {
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
-    align-content: flex-start;
-    align-items: flex-start;
-    padding: 0.5ex 1ex;
+    align-content: center;
+    align-items: center;
 
     a, a:visited {
         padding: 0 1.5ex;
+        margin: 1ex 0;
         color: $mainFGColor;
         text-decoration: none;
 
