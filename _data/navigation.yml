@@ -1,6 +1,8 @@
 - name: Home
   link: /
-- name: Policies & Rates
-  link: /policies_and_rates
+- name: Testimonials
+  link: /testimonials
+- name: Policies
+  link: /policies
 - name: Contact
   link: /contact

@@ -13,19 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Speak Sing Studio • Sydney Victor, Music and Voice Teacher in Langford, BC
+title: Speak Sing Studio • Sydney Johnson, Music and Voice Teacher in Langford, BC
 shortTitle: Speak Sing Studio
 email: speaksingstudio@gmail.com
 facebook: 
   name: Speak Sing Studio
   url: https://www.facebook.com/speaksingstudio/
-phone: +1-555-555-5555
+# phone: +1-555-555-5555
 description: >- # this means to ignore newlines until "baseurl:"
-  With more than 4 years of experience as a professional music teacher, Sydney 
-  Victor can help you train the only musical instrument you were born with--your
-  voice! Whether you want to become a better public speaker, or whether you want
-  to train your singing voice, with proper training and practice, Sydney can
-  help you accomplish your goals!
+  Sydney Johnson is an accomplished voice, piano, and music theory instructor in Langford, BC. She offers online lessons tailored to your musical goals. Book a free consultation!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
