@@ -6,7 +6,7 @@ layout: default
 ---
 
 
-Learning Music is fun at Speak Sing Studio!  Your musical year consists of 38 lessons commencing the first week of September until June 18th.  The following policies apply for the 2020/2021 studio year.
+Learning Music is fun at Speak Sing Studio!  Your musical year begins September 7th and continues until June 23rd. In-person and online lessons are available.  The following policies apply for the 2021/2022 studio year.
 
 ### Registration
 
@@ -24,13 +24,13 @@ There will be a Christmas Recital in December and a year-end recital in June.  P
 
 I continue to offer students the option of taking Exams in practical and theory through the Royal Conservatory of Music.  Students interested in music festivals should notify me and we will discuss current opportunities for their level.
 
-### Instrument/Voice & Theory
+### Benefits of Theory
 
-The study of music theory is a close look at the principles and construction of the musical language and an important aspect of every student's musical knowledge. Insight into rhythm, timing, scales, chord construction, and transposition are just a few of the areas covered. Concise theory study benefits all musicians. Your Theory Level will be assessed before beginning Theory Club Class.
+The study of music theory is a close look at the principles and construction of the musical language and an important aspect of every student's musical knowledge. Insight into rhythm, timing, scales, chord construction, and transposition are just a few of the areas covered. Concise theory study benefits all musicians. I offer group and private theory classes.
 
 Successful completion of examinations with RCM may result in students receiving High School Credits as each theory level corresponds to the practical exam level.
 
 ### Practice Routine
 
-Daily practice is the only way to become proficient as a musician and have more fun learning.  My recommendation for your practice time is 20-90 minutes daily, depending on your level and instrument of study.
+Daily practice is the only way to become proficient as a musician. It builds your confidence as you successfuly master new skills and helps you have more fun, not less!  My recommendation for your practice time is 20-90 minutes daily, depending on your level and instrument of study. We will discuss your practice goals together and decide how much time you should set aside for practice each day.
 
