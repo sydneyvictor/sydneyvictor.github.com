@@ -29,6 +29,7 @@ Sydney teaches group theory classes using the Ultimate Music Theory resources.  
 ## Why Take Lessons with Speak Sing Studio?
 
  * Over 5 years of teaching experience
+ * Online and in-person lessons
  * Experienced with students of all ages
  * Lessons targeting your individual goals
  * Focus on safe training techniques that will help you find your potential without damaging your voice.
